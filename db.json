@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "business": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Test business",
+      "rate": 23
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
